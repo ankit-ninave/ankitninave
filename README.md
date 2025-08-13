@@ -1,11 +1,11 @@
 # Hi, I'm Ankit 👋
-### Angular Developer | Front-End Enthusiast | Problem Solver
+### Angular Developer | Front-End Developer
 
 - 🔭 I’m currently working on **Angular web applications**
-- 🌱 I’m learning **RxJS, NgRx, and advanced JavaScript**
+- 🌱 I’m learning **Nodejs RxJS, and advanced JavaScript**
 - 💬 Ask me about **Angular, TypeScript, and JavaScript**
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/your-link) | [Email](mailto:your@email.com)
-- ⚡ Fun fact: I love long bike trips 🚴‍♂️
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ankit-ninave-7942bb1a0/) | [Email](mailto:ankitninave1@email.com)
+- ⚡ Fun fact: I love long bike trips 🏍️
 
 ---
 ### 🛠 Tech Stack
