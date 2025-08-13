@@ -14,5 +14,3 @@
 - **Tools:** Git, VS Code, Postman, Figma
 
 ---
-### 📊 GitHub Stats
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitninave&show_icons=true&theme=radical)
