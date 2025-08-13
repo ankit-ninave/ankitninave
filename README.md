@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ankit <img src="assets/wave.gif" width="28" alt="wave"></h1>
+<h1 align="center">Hi, I'm Ankit 👋<img src="assets/wave.gif" width="28" alt="wave"></h1>
 <h3 align="center">Angular Developer · Front-End Developer</h3>
 
 <p align="center"><em>"Great code is like great design — clear, efficient, and user-focused."</em></p>
