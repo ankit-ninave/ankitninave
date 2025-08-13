@@ -28,4 +28,4 @@
 ---
 
 ## 🌐 Connect
-[GitHub](https://github.com/ankit-ninave) · [LinkedIn](https://www.linkedin.com/in/ankit-ninave) · [LeetCode](https://leetcode.com/) · [Stack Overflow](https://stackoverflow.com/users/)
+[GitHub](https://github.com/ankit-ninave) · [LinkedIn](https://www.linkedin.com/in/ankit-ninave)
