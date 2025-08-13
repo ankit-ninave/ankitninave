@@ -1,5 +1,5 @@
 # Hi, I'm Ankit 👋  
-**Angular Developer | Front-End Developer | UI/UX Enthusiast**  
+**Angular Developer | Front-End Developer**  
 
 > *"Great code is like great design — clear, efficient, and user-focused."*  
 
