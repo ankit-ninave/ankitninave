@@ -12,7 +12,6 @@
 - **Personal Portfolio Website** – Modern Angular portfolio to showcase skills and work.  
   🔗 [Live Demo](https://ankit-ninave.github.io)  
 ---
----
 ### 🛠 Tech Stack
 - **Languages:** TypeScript, JavaScript, HTML, CSS, SCSS
 - **Frameworks:** Angular, Node.js
