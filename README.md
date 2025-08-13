@@ -28,4 +28,4 @@
 ---
 
 ## 🌐 Connect
-[GitHub](https://github.com/ankit-ninave) · [LinkedIn](https://www.linkedin.com/in/ankit-ninave)
+[GitHub](https://github.com/ankit-ninave) · [LinkedIn](https://www.linkedin.com/in/ankit-ninave-7942bb1a0/)
